@@ -1,13 +1,13 @@
 {
   "name": "vanilla-ts-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "creating a simple vanilla TypeScript project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bongeka Bhungane",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
